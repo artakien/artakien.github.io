@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://artakien.github.io/sitemap.html.gz
+Sitemap: https://artakien.github.io/app/sitemap.html.gz
+Sitemap: https://artakien.github.io/assets/sitemap.html.gz
+Sitemap: https://artakien.github.io/css/sitemap.html.gz
+Sitemap: https://artakien.github.io/data/sitemap.html.gz
+Sitemap: https://artakien.github.io/includes/sitemap.html.gz
+Sitemap: https://artakien.github.io/item/sitemap.html.gz
+Sitemap: https://artakien.github.io/src/sitemap.html.gz
